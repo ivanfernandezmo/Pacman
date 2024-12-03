@@ -11,7 +11,19 @@ config_version=4
 [application]
 
 config/name="Pacman"
+run/main_scene="res://escenes/Joc.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/width=224
+window/size/height=248
+window/size/test_width=448
+window/size/test_height=496
+
+[global]
+
+ventana=false
 
 [gui]
 
