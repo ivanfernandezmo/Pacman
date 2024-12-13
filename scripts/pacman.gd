@@ -2,7 +2,7 @@ extends Area2D
 
 var direccio = Vector2(0,0)
 var VELOCITAT = 10
-onready var parets = get_parent().get_node("Parets")
+onready var parets = get_parent().get_node("Navigation2D/Parets")
 
 func _ready():
 	$AnimatedSprite.play("moviment")

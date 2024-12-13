@@ -1,6 +1,8 @@
 extends TileMap
 
 onready var mida_mitja_cela = get_cell_size()/2
+onready var jugador = get_parent().get_parent().get_node("pacman")
+onready var enemic = get_parent().get_parent().get_node("Enemy")
 
 func _ready():
 	pass
@@ -42,3 +44,11 @@ func _process(delta):
 		print("Has guanyat!")
 		set_process(false)
 		
+func get_pos_enemic():
+	var pos = map_to_world(Vector2(14,11))
+	pos.y += mida_mitja_cela.y
+	return pos
+
+func get_jugador():
+	var path = get_parent().get_simple_path(enemic.position, jugador.position, false)
+	return path

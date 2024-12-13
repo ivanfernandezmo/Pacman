@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Arcade - Pac-Man - Maze Parts.png-d87640f56643c68ab78da7eb3a50c53e.stex"
+path="res://.import/Arcade - Pac-Man - Maze Parts.png-0724d4ef2090a86573a8a713ede8b18c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Arcade - Pac-Man - Maze Parts.png"
-dest_files=[ "res://.import/Arcade - Pac-Man - Maze Parts.png-d87640f56643c68ab78da7eb3a50c53e.stex" ]
+source_file="res://Assets/Arcade - Pac-Man - Maze Parts.png"
+dest_files=[ "res://.import/Arcade - Pac-Man - Maze Parts.png-0724d4ef2090a86573a8a713ede8b18c.stex" ]
 
 [params]
 
