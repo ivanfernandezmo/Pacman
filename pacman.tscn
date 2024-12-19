@@ -10,7 +10,7 @@ animations = [ {
 "frames": [ ExtResource( 2 ), ExtResource( 4 ), ExtResource( 1 ), ExtResource( 3 ) ],
 "loop": true,
 "name": "moviment",
-"speed": 5.0
+"speed": 4.0
 } ]
 
 [sub_resource type="CircleShape2D" id=2]

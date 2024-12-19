@@ -1,0 +1,54 @@
+[gd_scene load_steps=13 format=2]
+
+[ext_resource path="res://Assets/redUp01.png" type="Texture" id=1]
+[ext_resource path="res://Assets/redright02.png" type="Texture" id=2]
+[ext_resource path="res://Assets/reddown01.png" type="Texture" id=3]
+[ext_resource path="res://Assets/redleft02.png" type="Texture" id=4]
+[ext_resource path="res://Assets/redUp02.png" type="Texture" id=5]
+[ext_resource path="res://Assets/redDown02.png" type="Texture" id=6]
+[ext_resource path="res://Assets/RedRight01.png" type="Texture" id=7]
+[ext_resource path="res://Assets/redleft01.png" type="Texture" id=8]
+[ext_resource path="res://Assets/fantasma.png" type="Texture" id=9]
+[ext_resource path="res://Assets/fantasma02.png" type="Texture" id=10]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 3 ), ExtResource( 6 ) ],
+"loop": true,
+"name": "baix",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 1 ), ExtResource( 5 ) ],
+"loop": true,
+"name": "dalt",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 7 ), ExtResource( 2 ) ],
+"loop": true,
+"name": "dreta",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 8 ), ExtResource( 4 ) ],
+"loop": true,
+"name": "esquerra",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 10 ), ExtResource( 9 ) ],
+"loop": true,
+"name": "fantasma",
+"speed": 5.0
+} ]
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 0.5, 0.5 )
+
+[node name="Enemic" type="Area2D"]
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+frames = SubResource( 1 )
+animation = "esquerra"
+frame = 1
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+scale = Vector2( 8, 8 )
+shape = SubResource( 2 )
