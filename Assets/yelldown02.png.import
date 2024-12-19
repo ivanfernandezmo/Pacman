@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/yelldown02.png-6d8e5ec3f11e5718271355f645b47b84.stex"
+path="res://.import/yelldown02.png-1b5fa19b4d88207112a026710ef8413b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/yelldown02.png"
-dest_files=[ "res://.import/yelldown02.png-6d8e5ec3f11e5718271355f645b47b84.stex" ]
+source_file="res://assets/yelldown02.png"
+dest_files=[ "res://.import/yelldown02.png-1b5fa19b4d88207112a026710ef8413b.stex" ]
 
 [params]
 

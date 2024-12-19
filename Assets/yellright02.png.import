@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/yellright02.png-2baa21950cea7fd37a01af2949b8af6a.stex"
+path="res://.import/yellright02.png-4984385a4ddb48c8f86acb6d289f4441.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/yellright02.png"
-dest_files=[ "res://.import/yellright02.png-2baa21950cea7fd37a01af2949b8af6a.stex" ]
+source_file="res://assets/yellright02.png"
+dest_files=[ "res://.import/yellright02.png-4984385a4ddb48c8f86acb6d289f4441.stex" ]
 
 [params]
 

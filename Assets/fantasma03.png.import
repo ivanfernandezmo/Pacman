@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fantasma03.png-3cf3df2a674b0788d5e4a830d42f308b.stex"
+path="res://.import/fantasma03.png-8552f6d93d16de77dad3fbd8813758b7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/fantasma03.png"
-dest_files=[ "res://.import/fantasma03.png-3cf3df2a674b0788d5e4a830d42f308b.stex" ]
+source_file="res://assets/fantasma03.png"
+dest_files=[ "res://.import/fantasma03.png-8552f6d93d16de77dad3fbd8813758b7.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pinkleft01.png-cc752c8bffab44b74ad2ce8011840de3.stex"
+path="res://.import/pinkleft01.png-bca600d4646d6d6433ad27fdf5905c75.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/pinkleft01.png"
-dest_files=[ "res://.import/pinkleft01.png-cc752c8bffab44b74ad2ce8011840de3.stex" ]
+source_file="res://assets/pinkleft01.png"
+dest_files=[ "res://.import/pinkleft01.png-bca600d4646d6d6433ad27fdf5905c75.stex" ]
 
 [params]
 

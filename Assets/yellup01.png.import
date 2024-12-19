@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/yellup01.png-11b02c1b3660e1bd69ca99da7c1f41dd.stex"
+path="res://.import/yellup01.png-985dad562c6272817be629e9daf9dec2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/yellup01.png"
-dest_files=[ "res://.import/yellup01.png-11b02c1b3660e1bd69ca99da7c1f41dd.stex" ]
+source_file="res://assets/yellup01.png"
+dest_files=[ "res://.import/yellup01.png-985dad562c6272817be629e9daf9dec2.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Arcade - Pac-Man - General Sprites.png-3b7ad8bb718134111a5996662f11ddfa.stex"
+path="res://.import/Arcade - Pac-Man - General Sprites.png-9e9c2669fc493548ad76df0c335c58ee.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Arcade - Pac-Man - General Sprites.png"
-dest_files=[ "res://.import/Arcade - Pac-Man - General Sprites.png-3b7ad8bb718134111a5996662f11ddfa.stex" ]
+source_file="res://assets/Arcade - Pac-Man - General Sprites.png"
+dest_files=[ "res://.import/Arcade - Pac-Man - General Sprites.png-9e9c2669fc493548ad76df0c335c58ee.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/blueright02.png-d72226a1ee6f9ef277f9d77b2b55aad5.stex"
+path="res://.import/blueright02.png-5a3d781590c12000a89fbb7de0282fbf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/blueright02.png"
-dest_files=[ "res://.import/blueright02.png-d72226a1ee6f9ef277f9d77b2b55aad5.stex" ]
+source_file="res://assets/blueright02.png"
+dest_files=[ "res://.import/blueright02.png-5a3d781590c12000a89fbb7de0282fbf.stex" ]
 
 [params]
 

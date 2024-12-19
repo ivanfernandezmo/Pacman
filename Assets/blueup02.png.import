@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/blueup02.png-8295ca1d7e5d2c30dc2ec6b13bff6742.stex"
+path="res://.import/blueup02.png-4e5ee808e911329b5aa0bb3a193ffece.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/blueup02.png"
-dest_files=[ "res://.import/blueup02.png-8295ca1d7e5d2c30dc2ec6b13bff6742.stex" ]
+source_file="res://assets/blueup02.png"
+dest_files=[ "res://.import/blueup02.png-4e5ee808e911329b5aa0bb3a193ffece.stex" ]
 
 [params]
 

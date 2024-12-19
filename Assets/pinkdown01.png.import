@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pinkdown01.png-44284c67ea26794d759f3af3eaaf2683.stex"
+path="res://.import/pinkdown01.png-656381c1e7ddeab6c8f52ce8bc4b238f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/pinkdown01.png"
-dest_files=[ "res://.import/pinkdown01.png-44284c67ea26794d759f3af3eaaf2683.stex" ]
+source_file="res://assets/pinkdown01.png"
+dest_files=[ "res://.import/pinkdown01.png-656381c1e7ddeab6c8f52ce8bc4b238f.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/yellleft02.png-acdabdae5bfa1bfad6d8dad2b4aeaf10.stex"
+path="res://.import/yellleft02.png-f36a5b1f6a60e43dfa26b56288edf4ae.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/yellleft02.png"
-dest_files=[ "res://.import/yellleft02.png-acdabdae5bfa1bfad6d8dad2b4aeaf10.stex" ]
+source_file="res://assets/yellleft02.png"
+dest_files=[ "res://.import/yellleft02.png-f36a5b1f6a60e43dfa26b56288edf4ae.stex" ]
 
 [params]
 

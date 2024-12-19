@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pinkup01.png-980054dfe80e4db56266287f3979884f.stex"
+path="res://.import/pinkup01.png-5ec3a47c0bfa3b81ca2abb4f6e7fb1e6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/pinkup01.png"
-dest_files=[ "res://.import/pinkup01.png-980054dfe80e4db56266287f3979884f.stex" ]
+source_file="res://assets/pinkup01.png"
+dest_files=[ "res://.import/pinkup01.png-5ec3a47c0bfa3b81ca2abb4f6e7fb1e6.stex" ]
 
 [params]
 

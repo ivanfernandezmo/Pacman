@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/redright02.png-b98c3b8ac31916d5acbcc5f77b50f30d.stex"
+path="res://.import/redright02.png-d17a270154700152de70628f9aa571d9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/redright02.png"
-dest_files=[ "res://.import/redright02.png-b98c3b8ac31916d5acbcc5f77b50f30d.stex" ]
+source_file="res://assets/redright02.png"
+dest_files=[ "res://.import/redright02.png-d17a270154700152de70628f9aa571d9.stex" ]
 
 [params]
 

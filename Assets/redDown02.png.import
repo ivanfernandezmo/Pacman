@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/redDown02.png-5743775faed80e2c9c087d25d15d5456.stex"
+path="res://.import/redDown02.png-d8254dc224973391122357361938868b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/redDown02.png"
-dest_files=[ "res://.import/redDown02.png-5743775faed80e2c9c087d25d15d5456.stex" ]
+source_file="res://assets/redDown02.png"
+dest_files=[ "res://.import/redDown02.png-d8254dc224973391122357361938868b.stex" ]
 
 [params]
 

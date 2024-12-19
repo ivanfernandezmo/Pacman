@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/redleft01.png-ba2ff607d4d877513f75ca7123a22592.stex"
+path="res://.import/redleft01.png-30e684e3f941cb145d4c199357eff93b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/redleft01.png"
-dest_files=[ "res://.import/redleft01.png-ba2ff607d4d877513f75ca7123a22592.stex" ]
+source_file="res://assets/redleft01.png"
+dest_files=[ "res://.import/redleft01.png-30e684e3f941cb145d4c199357eff93b.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pinkright02.png-fa2d6705e6a490131be86cbcd1618cc6.stex"
+path="res://.import/pinkright02.png-627f703c1b167d374376d8a832ddd422.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/pinkright02.png"
-dest_files=[ "res://.import/pinkright02.png-fa2d6705e6a490131be86cbcd1618cc6.stex" ]
+source_file="res://assets/pinkright02.png"
+dest_files=[ "res://.import/pinkright02.png-627f703c1b167d374376d8a832ddd422.stex" ]
 
 [params]
 

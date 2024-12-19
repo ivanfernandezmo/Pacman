@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/blueleft01.png-abc40f22f378d19b55797f74b97da209.stex"
+path="res://.import/blueleft01.png-fee6db519b8b6a27adb6a6bbf9ee7cc0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/blueleft01.png"
-dest_files=[ "res://.import/blueleft01.png-abc40f22f378d19b55797f74b97da209.stex" ]
+source_file="res://assets/blueleft01.png"
+dest_files=[ "res://.import/blueleft01.png-fee6db519b8b6a27adb6a6bbf9ee7cc0.stex" ]
 
 [params]
 

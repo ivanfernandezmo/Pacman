@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bluedown01.png-071db1d0e11ebd09726429a667e7c068.stex"
+path="res://.import/bluedown01.png-09e0094e28f9e651fa7731078f0f4422.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/bluedown01.png"
-dest_files=[ "res://.import/bluedown01.png-071db1d0e11ebd09726429a667e7c068.stex" ]
+source_file="res://assets/bluedown01.png"
+dest_files=[ "res://.import/bluedown01.png-09e0094e28f9e651fa7731078f0f4422.stex" ]
 
 [params]
 
